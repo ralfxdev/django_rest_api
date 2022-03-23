@@ -47,7 +47,7 @@ http://127.0.0.1:8000/admin/
 http://127.0.0.1:8000/api/helloworld/
 
 
-## Construido con 🛠️
+## Built with 🛠️
 
 _Python, Django, Rest Framework_
 
