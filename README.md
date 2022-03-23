@@ -49,7 +49,7 @@ http://127.0.0.1:8000/api/helloworld/
 Método POST => ```{"name":"nombre"}```
 
 
-## Construido con 🛠️
+## Built with 🛠️
 
 _Python, Django, Rest Framework_
 
