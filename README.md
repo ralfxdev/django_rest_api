@@ -15,7 +15,7 @@ _Follow each of the steps for the installation_
 ```
 python3 -m venv env
 
-env\Scripts\activate
+env\Scripts\Activate  powershell => .ps1  cmd => .bat
 
 pip install -r requirements.txt
 
